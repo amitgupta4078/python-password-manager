@@ -1,1 +1,0 @@
-from pwdmanager.main import main
